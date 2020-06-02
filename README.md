@@ -5,4 +5,8 @@ on building container From scratch
 https://youtu.be/8fi7uSYlOdc
 
 
-The rootfs shd be docked using chdir
+The rootfs zip folder shd be extracted and 
+used as the new file system for our 
+container
+
+Others are written as comments in code
