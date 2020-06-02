@@ -5,8 +5,8 @@ on building container From scratch
 https://youtu.be/8fi7uSYlOdc
 
 
-The rootfs zip folder shd be extracted and 
-used as the new file system for our 
-container
+The rootfs tar folder shd be extracted  from 
+this following site and used as the new file 
+system for our container
 
-Others are written as comments in code
+https://github.com/ericchiang/containers-from-scratch/releases/download/v0.1.0/rootfs.tar.gz
